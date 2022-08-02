@@ -178,7 +178,7 @@ class MyHomePage extends StatelessWidget {
             ),
             IconButton(
               onPressed: () {},
-              icon: const Icon(Icons.edgesensor_high,
+              icon: const Icon(Icons.accessibility_new_outlined,
                   size: 35, color: Colors.white),
             ),
           ],
